@@ -1,5 +1,8 @@
 He didn't know why they were there... but they were.
 He didn't know where they were…. but they were.
+<<<<<<< HEAD
+They were there... but he didn't know. i think he is just saying he didn't know but really he did know... 
+=======
 They were there... but he didn't know.
 They were 4 Irishmen, and they were sober.
-
+>>>>>>> 1c532234e7c30bdcdf207b674cbb55f3d9efe2c4
